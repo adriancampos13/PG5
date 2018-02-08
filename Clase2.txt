@@ -1,0 +1,37 @@
+21/01/2018
+Programacion 5 
+
+JavaScript
+
+vida web---
+
+script --
+
+web browser
+
+motores de los web browser
+
+V8 -- chrome / Opera
+Spider Monkey -- firefox
+chakra
+Trident --
+chakraoncore -- Edge
+SquireFish -- Safari
+
+-----------------------------
+
+
+Clase 3 ----
+01/02/2018
+--------------
+
+Haga un programa que calcule el indice de masa corporal de una persona.
+EL programa debe correr indefinidamente hasta que el usuario decida salir.
+
+
+Tarea # 1
+
+
+
+
+
